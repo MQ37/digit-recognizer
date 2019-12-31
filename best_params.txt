@@ -1,0 +1,1 @@
+{'conv0_channel': 16, 'conv0_kernel_size': 9, 'down_repeat': 1, 'down_kernel_size': 5, 'down_dropout': 0.1, 'down_use_reflection': True, 'down_norm': 'BatchNorm2d', 'res_repeat': 2, 'res_kernel_size': 5, 'res_dropout': 0.1, 'res_use_reflection': False, 'res_norm': 'BatchNorm2d', 'res_output_relu': True, 'optim': <class 'torch.optim.adam.Adam'>}
